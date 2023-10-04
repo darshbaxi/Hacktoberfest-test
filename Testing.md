@@ -4,7 +4,7 @@ This document contains the results of testing the MindsDB Editor commands based 
 
 ## Test Results
 
-## Create Project
+## 1.Create Project
 
 **Command**:
 
@@ -26,7 +26,7 @@ This document contains the results of testing the MindsDB Editor commands based 
 **Status**: [Pass]
 
  
-## Drop Project
+## 2.Drop Project
 
 **Command**:
 
@@ -57,7 +57,7 @@ This document contains the results of testing the MindsDB Editor commands based 
 **Status**: [Pass]
 
 
-## List Projects
+## 3.List Projects
 
 **Command**: 
 
@@ -79,7 +79,7 @@ This document contains the results of testing the MindsDB Editor commands based 
 **Status**: [Pass]
 
 
-## Query Projects
+## 4.Query Projects
 
 **Command**: 
 
